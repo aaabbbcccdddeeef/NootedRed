@@ -1,0 +1,14 @@
+AirportItlwm.kext
+AMDRyzenCPUPowerManagement.kext
+AppleMCEReporterDisabler.kext
+BlueToolFixup.kext
+IntelBluetoothFirmware.kext
+IntelBTPatcher.kext
+Lilu.kext
+NootedRed.kext
+RealtekRTL8111.kext
+RestrictEvents.kext
+SMCAMDProcessor.kext
+USBToolBox.kext
+UTBMap.kext
+VirtualSMC.kext
